@@ -1,0 +1,74 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+.hide-bg {
+	mix-blend-mode: multiply;
+	filter: contrast(1);
+}
+
+#duck{
+	height:100px;
+	width: 100px;
+}
+
+#borbbaby{
+	height:100px;
+	width: 100px;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 100px;
+}
+
+#color{
+	font-size: 1rem;
+	font-weight: bold;
+	background-color: yellow;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#place{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 1rem;
+	font-weight: bold;
+	background-color: yellow;
+}
+
+#ritual{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 1rem;
+	font-weight: bold;
+	background-color: yellow;
+}
